@@ -13,6 +13,7 @@ import time
 
 
 class WeiboSpider(Spider):
+    #测试
     name = "weibo_spider"
     base_url = "https://weibo.cn"
 
